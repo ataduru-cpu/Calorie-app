@@ -1,0 +1,6 @@
+{
+  "name": "Vitalis Apothecary Chronometer",
+  "description": "Tactile artisanal apothecary and brass-gauge field instrumentation for daily wellness, nutrition, hydration chamber, and optic AI meal scanning.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
